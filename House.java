@@ -62,7 +62,7 @@ public void actionPerformed(ActionEvent ae)
   float cost=0;
   if(ae.getSource().equals(b1)) 
   {
-    if(std.contentEquals("S   tandard"))
+    if(std.contentEquals("Standard"))
     {
       cost = (feet*1200);
       String val=String.valueOf(cost);
