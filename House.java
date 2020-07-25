@@ -6,7 +6,7 @@ import javax.swing.JButton;
 import javax.swing.JComponent;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
-public class HouseConstruction implements ActionListener {
+public class House implements ActionListener {
 JFrame f;
 JButton b1;
 TextField t1,t2,t3,t4;
